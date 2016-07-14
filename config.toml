@@ -1,5 +1,5 @@
 # baseurl = "http://localhost:1313/"
-baseurl = "http://dmtavt.github.io/"
+baseurl = "https://dmtavt.github.io/"
 title = "Dmitry Avtonomov"
 copyright = "&copy; 2016 Dmitry Avtonomov"
 languageCode = "en-us"
